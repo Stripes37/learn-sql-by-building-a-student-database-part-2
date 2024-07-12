@@ -69,3 +69,6 @@ SELECT first_name FROM students
 ./student_info.sh
 ./student_info.sh./student_info.sh[200~./student_info.sh~
 ./student_info.sh
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+./student_info.sh
