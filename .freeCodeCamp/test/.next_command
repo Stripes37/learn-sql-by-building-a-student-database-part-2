@@ -60,3 +60,5 @@ chmod +x student_info.sh
 ./student_info.sh
 SELECT first_name FROM students
 ./student_info.sh
+./studfent_info.sh
+./student_info.sh
