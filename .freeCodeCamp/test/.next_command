@@ -72,3 +72,7 @@ SELECT first_name FROM students
 __vsc_prompt_cmd_original
 __vsc_prompt_cmd_original
 ./student_info.sh
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+./student_info.sh
