@@ -66,3 +66,4 @@ SELECT first_name FROM students
 ./student_info.sh
 ./student_info.sh
 ./student_info.sh
+./student_info.sh
